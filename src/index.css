@@ -1,0 +1,13 @@
+/* Remove default spacing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Make full page dark */
+body {
+  background-color: #111827;
+  color: white;
+  overflow-x: hidden;
+}

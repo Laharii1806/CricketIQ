@@ -1,5 +1,5 @@
 import { useState } from "react";
-import players from "../data/players";
+import Players from "../data/Players";
 import PlayerCard from "../components/PlayerCard";
 
 function Players() {

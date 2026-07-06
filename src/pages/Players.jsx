@@ -1,11 +1,11 @@
 import { useState } from "react";
-import Players from "../data/Players";
+import playersData from "../data/Players";
 import PlayerCard from "../components/PlayerCard";
 
 function Players() {
   const [search, setSearch] = useState("");
 
-  const filteredPlayers = players.filter((player) =>
+  const filteredPlayers = playersData.filter((player) =>
     player.name.toLowerCase().includes(search.toLowerCase())
   );
 

@@ -62,7 +62,19 @@ Through this project, I learned:
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
+### 🏠 Home Page
+![Home](home.png.png)
+
+### 👤 Players Page
+![Players](players.png.png)
+
+### 📊 Analytics Dashboard
+![Analytics](analytics.png.png)
+
+### 🎯 Predictor
+![Predictor](predictor.png.png)
 ---
 
 ## 👩‍💻 Developer

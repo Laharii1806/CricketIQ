@@ -3,6 +3,9 @@
 A modern cricket analytics platform built using **React** that provides player insights, match analytics, and prediction features through an interactive and responsive user interface.
 
 ---
+## 🔗 Live Demo
+
+**Live Website:**https://cricket-iq-kappa.vercel.app/
 
 ## 🚀 Project Overview
 
